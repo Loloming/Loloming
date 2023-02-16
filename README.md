@@ -18,6 +18,7 @@ Las principales tecnologías que uso son:
 * **Sequelize**
 * **PostgreSQL**
 * **Express**
+
 Además de HTML y CSS.
 #### ¡No dudes en contactarme!
 ¡Juntos podemos hacer un gran proyecto!
