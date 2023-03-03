@@ -6,7 +6,7 @@ Soy un programador *_full-stack_* orientado al back-end.
 Siempre me intereso la programación y el entender cómo funcionan todos los programas y juegos que usé en mi vida. Recién a los
 19 años pude empezar a aprender a programar, empezando con Python y optando por usar JavaScript.
 #### ¿Qué hago?
-Hoy en día me dedico a realizar proyecto con mis compañeros que conocí en mi cursada, para ir aprendiendo más y acostumbrarme al
+Hoy en día me dedico a realizar proyectos con mis compañeros que conocí en mi cursada, para ir aprendiendo más y acostumbrarme al
 flujo de trabajo con personas. Además de que es divertido de por sí.
 #### ¿A dónde me dirijo?
 Mi objetivo hoy es conseguir mi primer trabajo dentro de la industria IT y, desde ahí, seguir aprendiendo y llevar a cabo mis proyectos personales.
