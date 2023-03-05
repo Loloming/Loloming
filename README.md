@@ -22,7 +22,7 @@ Las principales tecnologías que uso son:
 Además de HTML y CSS.
 #### ¡No dudes en contactarme!
 ¡Juntos podemos hacer un gran proyecto!
-[LinkedIn](https://www.linkedin.com/in/damian-bruzzoni-087a66251/)
+[LinkedIn](https://www.linkedin.com/in/damian-bruzzoni/)
 <!--
 **Loloming/Loloming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
